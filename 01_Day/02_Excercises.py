@@ -1,0 +1,12 @@
+print('Miguel')
+print('Trinidad')
+print('mexico')
+print('im enjoying 30 days of python')
+ 
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type({'Miguel', 'phyton','Mexico'}))
+print(type('Miguel'))
+print(type('Trinidad'))
+print(type('mexico'))
